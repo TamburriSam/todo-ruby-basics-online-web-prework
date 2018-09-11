@@ -6,6 +6,7 @@ division
  def assign_variable(value)	
   	  name = "#{value}"
 end	
+name
 
  def argue	
   	 "#{phrase}"
