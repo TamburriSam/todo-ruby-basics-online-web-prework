@@ -1,4 +1,4 @@
-def division(num1, num2)
+def division(47, 2)
  	 num1/num2
 end	
 
