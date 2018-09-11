@@ -1,27 +1,21 @@
-def division 
-  45/7.to_i
-end
-
-def name("Bob")
-  
-end
-
-def argue
-  
-end
-
-def greeting
-
-end
-
+def division(num1, num2)
+ 	 num1/num2
+end	
+ def assign_variable(value)	def assign_variable(value)
+  	  name = "#{value}"
+end	
+ def argue	
+  	 "#{phrase}"
+end	
+ def greeting(greeting, name)
+ print "#{greeting} #{name}"
+end	
 def return_a_value
-
-end
-
+  "Nice"
+end	
 def last_evaluated_value
-
-end
-
-def pizza_party
-
-end
+ "expert"
+end	
+ def pizza_party(topping = "cheese")
+ "#{topping}"
+ 
