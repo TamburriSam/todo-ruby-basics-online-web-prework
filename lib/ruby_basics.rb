@@ -1,6 +1,7 @@
 def division(num1 = 47 , num2 = 2)
  	 puts num1/num2
 end	
+division
 
  def assign_variable(value)	
   	  name = "#{value}"
