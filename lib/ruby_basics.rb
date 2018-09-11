@@ -1,5 +1,5 @@
-def division(47, 2)
- 	 num1/num2
+def division(, 2)
+ 	 puts num1/num2
 end	
 
  def assign_variable(value)	
