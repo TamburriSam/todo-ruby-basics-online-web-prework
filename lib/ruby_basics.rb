@@ -1,4 +1,4 @@
-def division(, 2)
+def division(num1 = 7, 2)
  	 puts num1/num2
 end	
 
