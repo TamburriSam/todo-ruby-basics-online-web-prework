@@ -6,9 +6,9 @@ division
  def assign_variable(value)	
   	  name = "#{value}"
 end	
-name
+name ("Bob")
 
- def argue	
+ def argue 
   	 "#{phrase}"
   	 return "I'm right and you're wrong"
 end	
